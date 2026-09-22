@@ -1,5 +1,5 @@
-                                                          # 🐬 Abt me:
-                             **Full-Stack Developer • Junior Security Researcher • Computer Science Engineer**
+# 🐬 Abt me:
+**Full-Stack Developer • Junior Security Researcher • Computer Science Engineer**
 
 I build secure, scalable web applications and explore systems through security research.
 I write code, break systems, and think critically.
