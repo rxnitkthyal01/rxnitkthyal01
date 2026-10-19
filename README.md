@@ -1,41 +1,60 @@
-# 🐬 Abt me:
-**Full-Stack Developer • Junior Security Researcher • Computer Science Engineer**
+# R9SYS Workspace
 
-I build secure, scalable web applications and explore systems through security research.
-I write code, break systems, and think critically.
+Full-Stack Developer | Junior Cybersecurity Researcher | AI Prompt Engineer | Computer Science Engineer
 
+I build secure, scalable web applications and explore systems through security research. I write code, break systems, and think critically.
 
+---
 
-## Socials:
-[![Bluesky](https://img.shields.io/badge/bluesky-0285FF?style=for-the-badge&logo=bluesky&logoColor=%23FFFFFF)](https://bsky.app/profile/r2sey.bsky.social)
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/r9sys)
-[![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)](https://x.com/vampluge)
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://youtube.com/@r9sys?si=o7K0KBCN4cVEPmNK)
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rxnitkthyal01)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rxnitkthyal01@gmail.com) 
-[![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=plastic&logo=discord&logoColor=white)](https://discord.com/aurafarming24x7)
+### Core Specializations
 
-# Techstack:
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-%23557C94.svg?style=plastic&logo=kalilinux&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-%23FCC624.svg?style=plastic&logo=linux&logoColor=black) ![Bash](https://img.shields.io/badge/Bash-%23121011.svg?style=plastic&logo=gnubash&logoColor=white) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=plastic&logo=powershell&logoColor=white) ![Python](https://img.shields.io/badge/Python-%233670A0.svg?style=plastic&logo=python&logoColor=ffdd54) ![C](https://img.shields.io/badge/C-%2300599C.svg?style=plastic&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/C%2B%2B-%2300599C.svg?style=plastic&logo=cplusplus&logoColor=white) ![Rust](https://img.shields.io/badge/Rust-%23000000.svg?style=plastic&logo=rust&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=plastic&logo=javascript&logoColor=%23F7DF1E) ![TypeScript](https://img.shields.io/badge/TypeScript-%233178C6.svg?style=plastic&logo=typescript&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=plastic&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=plastic&logo=css3&logoColor=white) ![Sass](https://img.shields.io/badge/Sass-%23CC6699.svg?style=plastic&logo=sass&logoColor=white) ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-%2338B2AC.svg?style=plastic&logo=tailwind-css&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=plastic&logo=bootstrap&logoColor=white) ![React](https://img.shields.io/badge/React-%2320232a.svg?style=plastic&logo=react&logoColor=%2361DAFB) ![Next.js](https://img.shields.io/badge/Next.js-%23000000.svg?style=plastic&logo=next.js&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-%23404d59.svg?style=plastic&logo=express&logoColor=%2361DAFB) ![FastAPI](https://img.shields.io/badge/FastAPI-%23009688.svg?style=plastic&logo=fastapi&logoColor=white) ![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=plastic&logo=flask&logoColor=white) ![Django](https://img.shields.io/badge/Django-%23092E20.svg?style=plastic&logo=django&logoColor=white) ![PHP](https://img.shields.io/badge/PHP-%23777BB4.svg?style=plastic&logo=php&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=plastic&logo=mysql&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/Redis-%23DC382D.svg?style=plastic&logo=redis&logoColor=white) ![Nmap](https://img.shields.io/badge/Nmap-%23004F6D.svg?style=plastic&logo=nmap&logoColor=white) ![Wireshark](https://img.shields.io/badge/Wireshark-%231679A7.svg?style=plastic&logo=wireshark&logoColor=white) ![Metasploit](https://img.shields.io/badge/Metasploit-%232596CD.svg?style=plastic&logo=metasploit&logoColor=white) ![Burp Suite](https://img.shields.io/badge/Burp_Suite-%23FF6633.svg?style=plastic&logo=burpsuite&logoColor=white) ![OWASP](https://img.shields.io/badge/OWASP-%23000000.svg?style=plastic&logo=owasp&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-%235C3EE8.svg?style=plastic&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=plastic&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=plastic&logo=tensorflow&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=plastic&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=plastic&logo=pandas&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-%2300979D.svg?style=plastic&logo=arduino&logoColor=white) ![ESP32](https://img.shields.io/badge/ESP32-%23E7352C.svg?style=plastic&logo=espressif&logoColor=white) ![ESP8266](https://img.shields.io/badge/ESP8266-%23000000.svg?style=plastic&logo=espressif&logoColor=white) ![Raspberry Pi](https://img.shields.io/badge/Raspberry_Pi-%23A22846.svg?style=plastic&logo=raspberry-pi&logoColor=white) ![MQTT](https://img.shields.io/badge/MQTT-%23660066.svg?style=plastic&logo=mqtt&logoColor=white) ![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=plastic&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=plastic&logo=github&logoColor=white) ![GitLab](https://img.shields.io/badge/GitLab-%23FC6D26.svg?style=plastic&logo=gitlab&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=plastic&logo=amazon-aws&logoColor=white) ![Azure](https://img.shields.io/badge/Azure-%230072C6.svg?style=plastic&logo=microsoftazure&logoColor=white) ![Google Cloud](https://img.shields.io/badge/Google_Cloud-%234285F4.svg?style=plastic&logo=google-cloud&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-%23F38020.svg?style=plastic&logo=Cloudflare&logoColor=white) ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/Netlify-%2300C7B7.svg?style=plastic&logo=netlify&logoColor=white) ![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black) ![Figma](https://img.shields.io/badge/Figma-%23F24E1E.svg?style=plastic&logo=figma&logoColor=white) ![Framer](https://img.shields.io/badge/Framer-%230055FF.svg?style=plastic&logo=framer&logoColor=white)
+| Security & Recon | Full-Stack Systems | AI & Automation |
+| :--- | :--- | :--- |
+| Vulnerability Research | Scalable Backends | AI-Powered Tooling |
+| Static Code Analysis | Web Applications | Prompt Engineering |
+| Secure Architecture | REST & GraphQL APIs | Workflow Automation |
 
-## ⚙️ What I Build
+---
 
-| 🛡️ Cybersecurity | 💻 Full-Stack | 🤖 AI / Automation |
-|---|---|---|
-| Security Research | Web Applications | Prompt Engineering |
-| Recon & Analysis | APIs & Backends | AI-powered Tools |
-| Secure Architecture | Scalable Systems | Developer Workflows |
+### Technology Stack
 
-## :) Areas of Interest
+**Languages & Frameworks**
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
 
-**Philosophy** · **Critical Thinking** · **Cybersecurity**
-**Security Research** · **IoT** · **Artificial Intelligence** · **Web Design**
+**Cybersecurity & Tools**
+![BurpSuite](https://img.shields.io/badge/-BurpSuite-FF6600?style=flat&logo=burpsuite&logoColor=white)
+![Kali Linux](https://img.shields.io/badge/-KaliLinux-557C94?style=flat&logo=kalilinux&logoColor=white)
 
+**Infrastructure & DevOps**
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
 
-### ✍️ Albert Camus
+---
 
-> "In the midst of winter, I found there was, within me, an invincible summer."
->
-> — Albert Camus
+### GitHub Activity & Stats
 
+[![GitHub stats](https://github-readme-stats.vercel.app/api?username=rxnitkthyal01&show_icons=true&theme=radical)](https://github.com/rxnitkthyal01)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rxnitkthyal01&layout=compact&theme=radical)](https://github.com/rxnitkthyal01)
 
+---
+
+### Primary Socials
+
+[![Bluesky](https://img.shields.io/badge/Bluesky-0285FF?style=flat&logo=bluesky&logoColor=white)](https://bsky.app/profile/r2sey.bsky.social)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com)
+[![X](https://img.shields.io/badge/X-000000?style=flat&logo=x&logoColor=white)](https://x.com/vampluge)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=flat&logo=youtube&logoColor=white)](https://youtube.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)](https://github.com/rxnitkthyal01)
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:rxnilkthyal01@gmail.com)
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.com)
+
+---
+
+### Quote
+
+"The only way to do great work is to love what you do."
+— Steve Jobs
+
+---
