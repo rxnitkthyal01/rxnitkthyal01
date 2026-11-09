@@ -1,4 +1,4 @@
-# 🐬 r9sys Workspace
+# :P r9sys Workspace
 
 Full-Stack Developer | Junior Cybersecurity Researcher | AI Prompt Engineer | Computer Science Engineer
 
